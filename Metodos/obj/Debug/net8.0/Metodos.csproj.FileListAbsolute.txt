@@ -1,0 +1,14 @@
+c:\Users\hirch\OneDrive\Área de Trabalho\Estudo_Dev\CSMetodos\Metodos\bin\Debug\net8.0\Metodos.exe
+c:\Users\hirch\OneDrive\Área de Trabalho\Estudo_Dev\CSMetodos\Metodos\bin\Debug\net8.0\Metodos.deps.json
+c:\Users\hirch\OneDrive\Área de Trabalho\Estudo_Dev\CSMetodos\Metodos\bin\Debug\net8.0\Metodos.runtimeconfig.json
+c:\Users\hirch\OneDrive\Área de Trabalho\Estudo_Dev\CSMetodos\Metodos\bin\Debug\net8.0\Metodos.dll
+c:\Users\hirch\OneDrive\Área de Trabalho\Estudo_Dev\CSMetodos\Metodos\bin\Debug\net8.0\Metodos.pdb
+c:\Users\hirch\OneDrive\Área de Trabalho\Estudo_Dev\CSMetodos\Metodos\obj\Debug\net8.0\Metodos.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\hirch\OneDrive\Área de Trabalho\Estudo_Dev\CSMetodos\Metodos\obj\Debug\net8.0\Metodos.AssemblyInfoInputs.cache
+c:\Users\hirch\OneDrive\Área de Trabalho\Estudo_Dev\CSMetodos\Metodos\obj\Debug\net8.0\Metodos.AssemblyInfo.cs
+c:\Users\hirch\OneDrive\Área de Trabalho\Estudo_Dev\CSMetodos\Metodos\obj\Debug\net8.0\Metodos.csproj.CoreCompileInputs.cache
+c:\Users\hirch\OneDrive\Área de Trabalho\Estudo_Dev\CSMetodos\Metodos\obj\Debug\net8.0\Metodos.dll
+c:\Users\hirch\OneDrive\Área de Trabalho\Estudo_Dev\CSMetodos\Metodos\obj\Debug\net8.0\refint\Metodos.dll
+c:\Users\hirch\OneDrive\Área de Trabalho\Estudo_Dev\CSMetodos\Metodos\obj\Debug\net8.0\Metodos.pdb
+c:\Users\hirch\OneDrive\Área de Trabalho\Estudo_Dev\CSMetodos\Metodos\obj\Debug\net8.0\Metodos.genruntimeconfig.cache
+c:\Users\hirch\OneDrive\Área de Trabalho\Estudo_Dev\CSMetodos\Metodos\obj\Debug\net8.0\ref\Metodos.dll
